@@ -1,3 +1,3 @@
 # public
 
-public repo is public :open_book:
+public repo is public :open_book: :eyes:
